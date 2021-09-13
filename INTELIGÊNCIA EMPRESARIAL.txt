@@ -1,0 +1,311 @@
+Inteligência empresarial aula 01- resumo
+
+Tomada de Decisão
+É um processo de escolha entre diferentes cursos de ação com o propósito de alcançar um ou mais objetivos.
+Questões para tomada de decisão impõem novos requisitos aos SGBDs. Os dados usados para suporte à decisão 
+são conceitualmente diferentes dos dados usados nos bancos de dados para processamento de transações
+
+Processo de Tomada de Decisão
+O processo de tomada de decisão exige que o decisor tenha conhecimento em relação ao assunto a ser decidido. 
+Então a transformação dos dados em conhecimento é fundamental para que o decisor possa atingir seu objetivo.
+
+Usando a Tecnologia como suporte
+Neste cenário algumas tendências podem ser destacadas, como por exemplo, o estudo da concorrência, o 
+compartilhamento do conhecimento e a busca de novas tecnologias que flexibilizem o acesso e compreensão 
+de informações estratégicas, facilitando a tomada de decisão empresarial.
+
+Tecnologia no Ambiente Empresarial
+No ambiente empresarial atual, a tecnologia é essencial tanto para a comunicação e armazenamento dos dados, 
+das informações e dos conhecimentos quanto para a integração destes conhecimentos voltados para os tomadores de 
+decisão. Isto significa que, quanto maior a capacidade das tecnologias da informação e da comunicação, maior 
+a capacidade de inter-relacionamentos e maior a capacidade de aprender e lucrar com o compartilhamento da 
+informação e do conhecimento.
+
+
+A importância da tecnologia da informação
+A Tecnologia da Informação é um recurso que - estando em sintonia com as necessidades e objetivos dos usuários 
+- possibilita maior eficiência e eficácia no relacionamento interno e externo das organizações, evidenciando, 
+assim, agilidade e qualidade no processo da tomada de decisão
+
+TESTE DE CONHECIMENTO 01
+
+1 - Em relação aos conceitos de dados, informação e conhecimento, avalie com Certo ou Errado
+
+1) A fórmula: Dados + Significado = Informação (é correta)
+Certo	
+F
+2) Informação é um elemento atômico que é percebido pelos indivíduos que podem fazer algum sentido em um contexto de aplicação.
+Certo	
+F
+3) O conhecimento tácito é aquele baseado em observações científicas.
+Certo	
+F
+4) Os dados são símbolos brutos pelos quais é possível extrair uma informação.
+Certo	
+V
+5) Dados são símbolos quantificáveis e transmissíveis em algum suporte, passíveis de sofrerem atribuição de significado por quem os recebe.
+
+
+2 - Na era do conhecimento, a persistência que melhor armazena o conhecimento está relacionado na alternativa:
+
+(CORRETO)Base de conhecimento
+	 Base de Documentos
+	 Banco de dados em rede.
+	 Base em regra de produção
+	 Banco de dados hierárquico
+
+3 - Podemos considerar como conhecimento tácito:
+	 Receitas de família
+	 Valor médio do ticket de venda de um supermercado
+	 Data de aniversário de seus gerentes
+(CORRETO)Lugar de lazer preferido de seu melhor cliente
+	 Letra do Hino Nacional Brasileiro
+
+4 -Analise a lista de características abaixo:
+
+ 
+
+I - Simples observações sobre  o estado do mundo
+
+II - Facilmente estruturado
+
+III - Facilmente obtido por máquinas
+
+IV - Frequentemente qualificado
+
+V - Facilmente transferível
+
+
+As características referem-se a (assinale a alternativa correta):
+	 Informação
+	 Informação e Conhecimento
+(CORRETO)Dados
+	 Conhecimento
+	 Dados e Informação
+
+5 -  Nos Sistemas de Informação, conhecimento é uma propriedade
+
+	 de domínio de um pequeno grupo de pessoas responsáveis por sua gestão.
+	 não atrelada ao ser humano, uma vez que não se tem condição de verificar de fato o que é.
+(CORRETO)subjetiva, inerente a quem analisa os dados ou as informações.
+	 que não consegue atribuir significado aos dados e informações presentes no contexto.
+	 decorrente de uma posição objetiva, sem qualquer correlação com dados ou informações.
+
+6- Em uma matriz SWOT pode-se concluir corretamente que:
+	 É possível saber como a organização se posiciona no mercado quanto aos principais concorrentes.
+	 Divide a estratégia em uma visão interna e externa. A visão externa refere-se às forças e as fraquezas de uma organização.
+	 A inobservância de determinados fatores pode fazer com que uma organização perca sua vantagem competitiva.
+	 É uma técnica que tenta apontar como os líderes de um mercado alcançam seus objetivos quanto a determinado aspecto.
+(CORRETO)Existe relação entre as fraquezas e as ameaças que podem influenciar uma organização.
+
+7- João resolveu patentear a marca "Brasil 2014" porque achou que com o advento da Copa do Mundo no Brasil em 2014, ele poderia 
+cobrar royalties (tipo de comissão) de quem usasse a expressão "Brasil 2014" em algum produto ou evento. Esta decisão de João foi tomada baseada na condição de:
+	certeza de que muitos comerciantes usariam a expressão Brasil 2014
+	um torcedor fanático de futebol
+	risco real de investir a longo prazo
+	probabilidade estimada da vitória do Brasil na copa de 2014
+(CORRETO)certeza de que a copa do mundo seria realizada no Brasil
+
+8- A existência de relacionamento de uma informação com outra informação pode ser designado como:
+	 Nenhuma das anteriores
+	 Dado
+(CORRETO)Conhecimento
+	 Comparação
+	 Expertise
+
+9 -Analise a lista de características abaixo:
+
+ 
+
+I - Informação valiosa da mente humana. Inclui reflexão e síntese
+
+II - De difícil estruturação
+
+III - De difícil captura de máquinas
+
+IV - Frequentemente tácito
+
+V - De difícil transferência
+
+ 
+
+As características referem-se a (assinale a alternativa correta):
+
+	Dados
+Certo		Conhecimento
+	Informação e Conhecimento
+	Dados e Informação
+	Informação
+
+10 - Considerando a tipologia de sistemas de Informação nos deparamos com o SIG - Sistemas de Informações gerenciais que se encontra no nível Tático. Qual das opções abaixo com relação ao SIG não representa importância para as empresas ?
+	Redução dos custos das operações.
+	Melhoria na Produtividade.
+	Melhoria dos acessos às informações, proporcionando relatórios mais precisos.
+Certo		Relatórios mais precisos e rápidos com maior esforço.
+	Melhoria na estrutura da organização, por facilitar o fluxo de informações.
+
+11 - O Conhecimento é obtido a partir do uso das informações e exige reflexão e síntese. Quanto ás características do conhecimento, podemos afirmar que:
+	Podemos obtê-lo de forma simples através de máquinas;
+	Toda empresa utiliza em seus processos decisórios
+Certo		Geralmente podemos expressá-lo em números.
+	É facilmente estruturado;
+	É sempre quantificado;
+
+12 - Mesmo que uma determinada empresa não pertença ao ramo dos produtos e serviços de TI, a informação é o seu principal recurso. Sobre a gestão de informação das empresas, marque a alternativa INCORRETA:
+
+(Certo) Em gestão da informação, a eficiência pode ser considerada sinônimo da efetividade pois ambas são relativas à realização de um tarefa até a sua conclusão, visando a escolha da solução certa para a causa do problema.
+	Um dos objetivos da gestão da informação é a eficiência do processo de tomada de decisão.
+	A gestão do conhecimento pode ser definida como o ato de utilizar recursos de dados, informação e conhecimento disponíveis na organização com eficiência e eficácia.
+	Eficiência é a execução de uma tarefa da forma certa e com qualidade, utilizando-se de menos recursos e de menor tempo possível, por isso é relativa à área operacional.
+	Em gestão da informação, eficácia é relativa à execução da tarefa certa para a resolução de um problema ou meta.
+
+13 - A informação exerce papel de extrema importância na sociedade capitalista, a ponto de condicioná-la para a manutenção e hegemonia do sistema. A revolução das tecnologias de informação impulsionou o fenômeno conhecido como:
+
+	Tomada de decisão
+Certo	Globalização
+	Arquivamento de dados
+	Computação na nuvem
+	Sistema
+14 - Em relação aos conceitos sobre dados, informações e conhecimento, é errado afirmar que:
+	Dados são descrições elementares que são registradas, classificadas e armazenadas, mas não são organizadas para carregar significados específicos.
+Certo		Conhecimento e informação são sinônimos, pois quem tem informação tem conhecimento.
+	Informação são dados organizados de modo que tenham significado e valor para quem os receber.
+	Itens de dados podem ser formados por caracteres, números, sons ou imagens.
+	Um banco de dados consiste em itens de dados armazenados, organizados para a recuperação.
+
+15 - Define-se dado como uma sequência de símbolos quantificados ou quantificáveis. A seguir marque a alternativa que pode ser considerada uma representação de dados.
+Certo	Todas as alternativas.
+	Figuras
+	Sons gravados
+	Animação
+	Texto(conjunto de letras, finito)
+
+16 - Muito se fala acerca da Sociedade da Informação ou da Sociedade do Conhecimento, termos que designam o mesmo objeto e que ganharam significado atrelado ao aparato técnico informacional eletrônico.
+
+Segundo DAVENPORT, PRUSAK analise as afirmações sobre a definição de conhecimento e marque a opção INCORRETA:
+
+I. uma mistura fluida de experiência estruturada, valores e informação contextual, baseada em percepção e intuição, que fornece um ambiente e um quadro avaliativo para novas experiências e informações.
+
+II. Nas organizações, frequentemente manifesta-se não só em documentos ou repositórios, mas também em rotinas organizacionais, práticas e normas.
+
+III. É originado e aplicado à mente dos conhecedores.
+
+	
+Todas as afirmações estão corretas.
+
+	
+As afirmações I e III estão incorretas
+
+Certo		
+Todas as afirmações estão incorretas.
+
+	
+As afirmações I e II estão incorretas
+
+	
+Apenas a afirmação III está incorreta.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inteligência empresarial aula 02 - resumo
+
+Motivação para Inteligência Empresarial
+Uma das principais características da sociedade moderna é a dinâmica das transformações e a globalização dos mercados
+Os tempos atuais demandam novas teorias, novas capacidades de pensamento, novas capacidades para transformar dados em 
+informação útil e novos níveis de inovação capazes de desenvolver aplicações práticas para estas informações
+As empresas querem ser produtivas para serem mais lucrativas. E lucratividade e competitividade são as verdadeiras 
+determinantes da inovação tecnológica e do crescimento da produtividade.
+não podemos nos contentar em gerar novos Conhecimentos, em fazer apenas a pesquisa pela pesquisa, ou simplesmente 
+em coletar informações e guardá-Ias
+
+Conhecimento, inovação e empreendedorismo formam, assim, um tripé indissociável para o sucesso das organizações na 
+nova Economia.
+
+“Devido à competitividade dos mercados, já não basta compreender os clientes. As empresas precisam começar a prestar 
+atenção a seus concorrentes. Empresas bem sucedidas projetam e operam sistemas para obter informações contínuas 
+sobre seus concorrentes.”(PHILIP KOTLER)
+Ao utilizar da melhor forma possível esse recurso as organizações tendem a obter um melhor desenvolvimento e 
+competitividade frente ao mercado. 
+
+A principal função da Inteligência Empresarial é suprir as organizações com informações, a fim de prepará-las 
+para o acirramento da concorrência e da globalização dos mercados.
+
+A Inteligência Empresarial diz respeito à capacidade de uma organização em reunir informações do ambiente interno e do 
+mercado, facilitar o uso destas informações na criação de conhecimentos e atuar efetivamente com base nestes 
+conhecimentos
+
+Cabe então à Inteligência Empresarial desenvolver, de forma estruturada, sistemática e contínua, as fases de 
+coleta, análise e disseminação do conhecimento relevante para subsidiar o processo de tomada de decisão
+
+
+Inteligência Empresarial – Objetivos
+
+A Inteligência Empresarial é a capacidade de uma empresa para capturar, selecionar, analisar e gerenciar as 
+informações relevantes para a gestão do negócio com o objetivo de:
+
+1 - Inovar e criar conhecimento.
+2 - Reduzir riscos na tomada de decisão e evitar surpresas.
+3 - Direcionar, assertivamente, os planos de negócios e a implementação de ações.
+4 - Criar oportunidades de negócios.
+5 - Gerar valor aos negócios.
+6 - Apoiar o desenvolvimento de produtos/serviços com uma base de informação confiável, eficiente e ágil.
+7 - Monitorar, analisar e prever, eficientemente, as questões relacionadas ao core business.
+
+Inteligência Competitiva
+Inteligência Competitiva é a utilização de métodos, meios e técnicas para se gerenciar estrategicamente as 
+informações nas organizações.
+Este processo sistemático da busca, análise, estruturação e disseminação das informações oriundas das várias 
+fontes existentes tanto na empresa quanto no ambiente externo é de vital importância na gestão e planejamento 
+estratégico
+O atual mercado competitivo fez com que, a Inteligência Competitiva e a gestão dos sistemas de informação se 
+tornassem uma atividade fundamental para sobrevivência das organizações
+Através da Inteligência Competitiva são identificadas as oportunidades e/ou ameaças do ambiente externo, que 
+contribuirão na busca das vantagens competitivas, facilitando à organização alcançar posição de destaque no 
+cenário empresarial.
+
+Ciclo da Inteligência Competitiva
+O ciclo da inteligência competitiva é um ciclo contínuo e se compõe de cinco fases:
+
+1- Planejar e identificar as necessidades de informação: junto aos tomadores de decisão são definidas as 
+necessidades de inteligência.
+
+2- Coletar e tratar a informação: de forma ética e legal, são identificadas as fontes e como as 
+informações serão coletadas e armazenadas.
+
+3- Analisar e validar a informação: especialistas analisam e validam as informações, fazem a sua 
+interpretação e compilam recomendações
+
+4- Disseminar e utilizar a informação: os resultados da análise são apresentados aos tomadores de decisão.
+
+5- Avaliar: a resposta dos tomadores de decisão e suas necessidades de inteligência são analisadas de modo contínuo.
+
+Inteligência Organizacional
+A organização que não conhece o seu ambiente e a sua real potencialidade neste cenário está sujeita ao insucesso 
+por despender esforços redundantes e, muitas vezes, de baixa eficácia em suas atividades rotineiras, não estando 
+preparada para responder com agilidade aos eventuais imprevistos que possam surgir.
+A solução para adquirir o conhecimento de seu ambiente é a implementação de um sistema de inteligência organizacional 
+que seja capaz de monitorar este ambiente. Esta solução está associada à capacidade da organização para reunir 
+informações, inovar, criar conhecimento e atuar efetivamente com base no conhecimento gerado.
+A partir de seu uso é possível encontrar novas formas de entender os dados disponíveis na organização, gerando 
+informações e novos conhecimentos para o usuário final que, neste caso, é o tomador de decisão.
+
+
+
+
+
