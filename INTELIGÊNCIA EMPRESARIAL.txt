@@ -451,17 +451,6 @@ Certo	Em gestão da informação, a eficiência pode ser considerada sinônimo d
 
 
 
-	
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -553,6 +542,62 @@ que seja capaz de monitorar este ambiente. Esta solução está associada à cap
 informações, inovar, criar conhecimento e atuar efetivamente com base no conhecimento gerado.
 A partir de seu uso é possível encontrar novas formas de entender os dados disponíveis na organização, gerando 
 informações e novos conhecimentos para o usuário final que, neste caso, é o tomador de decisão.
+
+Para lidar com essa complexidade, é necessário lançar mão de um conjunto de ferramentas ligadas ao conceito de Inteligência
+Organizacional ou Inteligência Empresarial. Podemos definir a Inteligência Empresarial como:
+	
+	um processo de seleção efetuado por algum agente, entre eventos passíveis de ocorrer em um dado ambiente.	
+	um Conhecimento que ocorre a partir da vivência dos indivíduos em contato com as diversas informações absorvidas do meio que habitam.	
+	uma sequência de símbolos quantificados ou quantificáveis.
+Certo	um conceito que tipicamente envolve a entrega e integração de informações de negócios que sejam relevantes e úteis em uma organização.
+	um tipo ou classe de sistemas de informação que suportam algum modelo de tomada de decisão, analisando um grande número de variáveis ou tornando 	disponível um certo volume de informações concernentes a um problema que deva ser resolvido.
+	
+Uma ferramenta de inteligência competitiva que permite a divisão em visão interna e externa, além de definir forças e fraquezas, está melhor representada na alternativa:
+	Benchmarking
+Certo		Análise SWOT
+	Forças de Porter
+	Cadeia de Valor
+	FCS
+	
+A Inteligência Competitiva é um ciclo contínuo e se compõe de cinco fases. Indique dentre as opções abaixo aquela que representa a fase onde se entrega a informação analisada, ou seja, a inteligência, em um formato coerente e convincente aos tomadores de decisão.
+Certo	Disseminar e utilizar a informação.
+	Planejar e identificar as necessidades de informação.
+	Coletar e tratar a informação.
+	Analisar e validar a informação.
+	Avaliar.
+	
+A capacidade de uma organização em reunir informações do ambiente interno e externo e utilizar estas informações para criar conhecimento e atuar efetivamente baseada no conhecimento é atribuição da:
+	Inteligência Empreendedora.
+	Inteligência Construtiva.
+Certo	Inteligência Empresarial.
+	Inteligência Emocional.
+	Inteligência Competitiva.
+
+São vantagens da inteligência competitiva, EXCETO:
+	
+	Entender oportunidades e ameaças do ambiente externo.
+Certo	Realizar troca constante de funcionários prevendo aumento de custos.
+	Registros de erros e acerto do passado para melhorias no futuro.
+	Minimizar impactos causados por ações dos concorrentes.
+	Pensar em alternativas sustentáveis para o futuro.
+
+Identifique, dentre as opções abaixo, aquela que NÃO representa um dos objetivos fundamentais da Inteligência Empresarial:
+	Inovar e criar conhecimento.
+	Reduzir riscos na tomada de decisão e evitar surpresas.
+Certo		Aumento da eficiência do trabalho.
+	Apoiar o desenvolvimento de produtos/serviços com uma base de informação confiável, eficiente e ágil.
+	Direcionar, assertivamente, os planos de negócio e a implementação de ações.
+	
+Comparando os conceitos de inteligência empresarial, podemos afirmar que: I- Inteligência Empresarial: é a capacidade da empresa em selecionar, capturar, analisar e gerenciar as informações relevantes para a gestão de seu negócio. II- Inteligência Organizacional: é a capacidade da empresa em reunir informação, inovar, criar conhecimento e atuar com base neste conhecimento. III- Inteligência Competitiva: é a capacidade de reunir, analisar e administrar informações externas que podem afetar planos, decisões e operações de uma empresa. Assinale a opção abaixo, que possui a(s) afirmativa(s) correta(s).
+	II, apenas.
+Certo		I, II e II.
+	I e II, apenas.
+	I, apenas.
+	III, apenas.
+
+
+
+
 
 
 
