@@ -27,6 +27,15 @@ A Tecnologia da Informação é um recurso que - estando em sintonia com as nece
 - possibilita maior eficiência e eficácia no relacionamento interno e externo das organizações, evidenciando, 
 assim, agilidade e qualidade no processo da tomada de decisão
 
+Conhecimento tácito
+Conhecimento tácito é um modelo subjetivo e individual de conhecimento, adquirido ao longo das experiências e vivências particulares de cada pessoa
+
+Conhecimento Explicito
+o conhecimento explícito consegue ser transmitido através de uma explicação formatada, com gráficos, palavras, imagens e de forma objetiva.
+
+
+
+
 TESTE DE CONHECIMENTO 01
 
 1 - Em relação aos conceitos de dados, informação e conhecimento, avalie com Certo ou Errado
@@ -213,6 +222,29 @@ Certo	o conhecimento tácito e o conhecimento explícito
 	o conhecimento processual e o conhecimento situacional	
 	o conhecimento tácito e o conhecimento a priori	
 	o conhecimento proposicional e o conhecimento a priori
+	
+	
+Considere as proposições a seguir e marque ( V ) para as proposições Verdadeiras e ( F ) para as proposições Falsas:
+
+(   ) O executivo do início do século tomava decisões baseado na escassez de informações.
+
+(   ) Toda informação e todo conhecimento são úteis para o executivo tomar uma determinada decisão.
+
+(   ) No processo de tomada de decisão o modelo mental de cada pessoa interfere na codificação e decodificação dos dados, informações e conhecimentos.
+
+(   )  Os dados utilizados para suporte à decisão são conceitualmente diferentes dos dados utilizados nos bancos de dados para processamento de transações.
+
+(   ) Questões para tomada de decisão não impõem novos requisitos para os SGBDs.
+
+Agora assinale a alternativa CORRETA:
+
+	V,F,V,F,V
+	V,V,V,V,V
+Certo		V,F,V,V,F
+	F,V,V,F,V
+	F,F,F,F,F
+
+
 
 
 
