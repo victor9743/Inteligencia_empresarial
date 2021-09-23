@@ -42,17 +42,18 @@ TESTE DE CONHECIMENTO 01
 
 1) A fórmula: Dados + Significado = Informação (é correta)
 Certo	
-F
+
 2) Informação é um elemento atômico que é percebido pelos indivíduos que podem fazer algum sentido em um contexto de aplicação.
-Certo	
-F
+falsa	
+
 3) O conhecimento tácito é aquele baseado em observações científicas.
-Certo	
-F
+falsa
+
 4) Os dados são símbolos brutos pelos quais é possível extrair uma informação.
-Certo	
-V
+falsa
+
 5) Dados são símbolos quantificáveis e transmissíveis em algum suporte, passíveis de sofrerem atribuição de significado por quem os recebe.
+verdadeira
 
 
 2 - Na era do conhecimento, a persistência que melhor armazena o conhecimento está relacionado na alternativa:
@@ -175,6 +176,7 @@ Certo	Globalização
 	Arquivamento de dados
 	Computação na nuvem
 	Sistema
+	
 14 - Em relação aos conceitos sobre dados, informações e conhecimento, é errado afirmar que:
 	Dados são descrições elementares que são registradas, classificadas e armazenadas, mas não são organizadas para carregar significados específicos.
 Certo		Conhecimento e informação são sinônimos, pois quem tem informação tem conhecimento.
@@ -243,6 +245,213 @@ Agora assinale a alternativa CORRETA:
 Certo		V,F,V,V,F
 	F,V,V,F,V
 	F,F,F,F,F
+	
+	
+Acerca das definições de conhecimento, assinale a alternativa correta.
+	O conhecimento tácito é algo pessoal no qual é propriedade de uma organização.
+	O conhecimento tácito é algo impessoal.
+	O conhecimento explícito não pode ser documentado em livros, manuais e bancos de dados.
+Certo		O conhecimento explícito é adquirido principalmente através das informações.
+	O conhecimento tácito não é propriedade de uma organização ou de uma coletividade, ou seja, é algo impessoal.
+	
+Considere as seguintes características:
+
+I) Simples observações sobre o estado do mundo; Facilmente estruturado; Facilmente obtido por máquinas; Frequentemente qualificado; Facilmente transferível.
+
+II) Dados dotados de relevância e propósito; Requer unidade de análise; Exige consenso em relação ao resultado; Exige necessariamente a mediação humana.
+
+III) Informação valiosa da mente humana; Inclui reflexão e síntese; De difícil estruturação; De difícil captura através das máquinas; Frequentemente tácito; De difícil transferência.
+
+Os conceitos relacionados com estas características são respectivamente:
+
+	Informação, Conhecimento e Dados.
+	Dados, Conhecimento e Informação.
+	Informação, Dados e Conhecimento.
+Certo		Dados, Informação e Conhecimento.
+	Conhecimento, Dados e Informação.
+	
+O que pode ajudar a transformar dados brutos em informações úteis para as organizações? Atenção: marque a alternativa INCORRETA!
+
+	O uso de sistemas de medidas que também pode ser chamados de métricas.
+	A coleta e a organização de dados de acordo com os objetivos dos negócios.
+	O emprego de ferramentas de apoio à tomada de decisão.
+	O uso de ferramentas de Big Data.
+Certo		O uso de intuição e de experiências anteriores.
+
+Analise a lista de características abaixo:
+
+ 
+
+I - Informação valiosa da mente humana. Inclui reflexão e síntese
+
+II - De difícil estruturação
+
+III - Elementos dotados de relevância e propósito
+
+IV - Requer unidade de análise
+
+V - De difícil transferência
+
+ 
+
+As características referem-se a (assinale a alternativa correta):
+
+	Informação
+	Conhecimento
+	Dados
+	Dados e Informação
+Certo		Informação e Conhecimento
+
+Os processos eletrônicos do Tribunal de Contas do Estado do Amazonas (TCE-AM) afetados pela pane nos sistemas e-Contas e Spede (Sistema de Processos e Documentos Eletrônicos) - a qual excluiu dados dos dois softwares - devem ser 100% recuperados até a próxima semana, segundo garantiu, na manhã de terça-feira (03/10/2017), o conselheiro-presidente do TCE-AM, Ari Moutinho Júnior, em entrevista coletiva. Ocorrido há 38 dias, por causa de uma execução indevida de um script (sequência de comados), o incidente afetou o servidor de dados PostgreSQL, atingindo 16,5 mil processos (80% de processos de aposentadoria), dos quais 62% já foram plenamente recuperados e os outros 38% estão em fase de recuperação.
+
+Ao descartar a hipótese de sabotagem ou invasão de hacker, o conselheiro Airy Moutinho Júnior explicou que o problema ocorreu por "excesso de confiança e falta de responsabilidade" por parte dos dois servidores. Um que mexia diretamente com o PostgreSQL, que alimentava o Spede e o e-Contas, e outro por saber das limitaçõesdo backup e da necessidade de ampliação do mesmo e não tomar as providências necessárias como gestor.
+
+Com base neste cenário, analise as assertivas:
+
+I) Considerando o tipo de decisão tomada pelo servidor responsável pela ampliação do backup, pode-se dizer que o mesmo enquadra-se no nível organizacional alto;
+
+II) Considerando o tipo de decisão tomada pelo servidor responsável por executar o script SQL diretamente no SGBD, pode-se dizer que o mesmo pertence ao nível organizacional alto;
+
+III) As decisões foram tomadas em condições de certeza;
+
+IV) Uma decisão baseada na abordagem intuitiva analítica poderia evitar os danos ocorridos
+
+V) Utilizando a técnica matriz de prioridade, pode-se dizer que o problema de ampliação de backup enquadra-se em Importante/Urgente por envolver características como: prevenção, preparação e planejamento.
+
+Sendo assim, é correto apenas o que se afirma em:
+
+	III e V
+Certo		V
+	II e IV
+	IV
+	I e III
+
+O conhecimento expresso em termos de experiências subjetivas é denominado como:
+	Expresso
+	Informativo
+Certo		Tácito
+	Especulativo
+	Intuitivo
+Analise a lista de características abaixo:
+
+ 
+
+I - Informação valiosa da mente humana. Inclui reflexão e síntese
+
+II - De difícil estruturação
+
+III - De difícil captura de máquinas
+
+IV - Frequentemente tácito
+
+V - De difícil transferência
+
+ 
+
+As características referem-se a (assinale a alternativa correta):
+
+Certo		Conhecimento.
+	Informação.
+	Dados e informação.
+	Informação e conhecimento.
+	Dados.
+	
+Dado, informação e conhecimento são elementos fundamentais para a comunicação e a tomada de decisão nas organizações, mas seus significados não são tão evidentes. Eles formam um sistema hierárquico de difícil delimitação. O que é um dado para um indivíduo pode ser informação e/ou conhecimento para outro. Davenport corrobora esse ponto de vista colocando resistência em fazer essa distinção e a considera nitidamente imprecisa. Com isso podemos afirmar que o grande desafio dos tomadores de decisão:
+
+	é o de transformar conhecimento em informação e informação em dados, minimizando as interferências individuais nesse processo de transformação;
+	é o de transformar informação em dados e conhecimento em informação, minimizando as interferências individuais nesse processo de transformação;
+	é o de minimizar e transformar as interferências individuais em dados e dados em informação, nesse processo de transformação do conhecimento;
+Certo		é o de transformar dados em informação e informação em conhecimento, minimizando as interferências individuais nesse processo de transformação;
+	na transformação da informação e dos dados e interferir o mínimo nesse processo de conhecimento.
+
+
+É um conjunto de dados aos quais seres humanos deram forma para torná-los significativos e úteis. Essa definição refere-se a:
+	Processamento
+	Dado
+Certo		Informação
+	Conhecimento
+	Inteligência
+	
+___________ oferece os meios para que a organização encontre novas oportunidades de negócio, além do tradicional papel de oferecer meios para melhoria da eficiência das operações, através ___________.
+
+ 
+
+Assinale a alternativa que preenche as lacunas acima respectivamente:
+
+	A Tecnologia de Telecomunicações / dos Sistemas de Informação.
+	Um Sistema de Informação / da Tecnologia de Telecomunicações.
+	A Tecnologia da Informação / das Tecnologias de Telecomunicações.
+	Um Sistema de Informação / da Tecnologia da Informação.
+Certo		A Tecnologia da Informação / dos Sistemas de Informação.
+
+Nos Sistemas de Informação, conhecimento é uma propriedade
+
+	decorrente de uma posição objetiva, sem qualquer correlação com dados ou informações.
+Certo		subjetiva, inerente a quem analisa os dados ou as informações.
+	de domínio de um pequeno grupo de pessoas responsáveis por sua gestão.
+	que não consegue atribuir significado aos dados e informações presentes no contexto.
+	não atrelada ao ser humano, uma vez que não se tem condição de verificar de fato o que é.
+	
+Muito se fala acerca da Sociedade da Informação ou da Sociedade do Conhecimento, termos que designam o mesmo objeto e que ganharam significado atrelado ao aparato técnico informacional eletrônico.
+
+Segundo DAVENPORT, PRUSAK analise as afirmações sobre a definição de conhecimento e marque a opção INCORRETA:
+
+I. uma mistura fluida de experiência estruturada, valores e informação contextual, baseada em percepção e intuição, que fornece um ambiente e um quadro avaliativo para novas experiências e informações.
+
+II. Nas organizações, frequentemente manifesta-se não só em documentos ou repositórios, mas também em rotinas organizacionais, práticas e normas.
+
+III. É originado e aplicado à mente dos conhecedores.
+	
+	As afirmações I e II estão incorretas	
+	Apenas a afirmação III está incorreta.
+	As afirmações I e III estão incorretas
+Certo	Todas as afirmações estão incorretas.
+	Todas as afirmações estão corretas.
+
+Para que a informação tenha valor, precisamos compreender as situações, tomar decisões, reduzir riscos e erros. São construídos com Dados, Informação, Conhecimento e Inteligência. Sobre o tema, considere:
+
+I. Informação é coletada nos ambientes interno e externo e representa, por exemplo: fatos, textos, gráficos.
+
+II. A inteligência é realizada por meio de síntese, baseada em experiência e intuição, sendo uma habilidade humana.
+
+III. Conhecimento demanda análise e avaliação sobre a confiabilidade, relevância e importância de dados e informações para a construção de um quadro de situação.
+
+Está correto o que consta APENAS em:
+	
+	I.	
+	II.	
+	I e III.
+Certo	II e III.
+	III.
+
+Em relação aos conceitos sobre dados, informações e conhecimento, é errado afirmar que:
+	Dados são descrições elementares que são registradas, classificadas e armazenadas, mas não são organizadas para carregar significados específicos.
+	Itens de dados podem ser formados por caracteres, números, sons ou imagens.
+Certo		Conhecimento e informação são sinônimos, pois quem tem informação tem conhecimento.
+	Um banco de dados consiste em itens de dados armazenados, organizados para a recuperação.
+	Informação são dados organizados de modo que tenham significado e valor para quem os receber.
+
+Qual das seguintes afirmações referentes ao conceito de Conhecimento é falsa?
+	Frequentemente tácito
+Certo		Facilmente transferível
+	De difícil estruturação
+	Inclui reflexão e síntese
+	De difícil captura em máquinas
+	
+Mesmo que uma determinada empresa não pertença ao ramo dos produtos e serviços de TI, a informação é o seu principal recurso. Sobre a gestão de informação das empresas, marque a alternativa INCORRETA:
+
+	
+	Em gestão da informação, eficácia é relativa à execução da tarefa certa para a resolução de um problema ou meta.	
+	A gestão do conhecimento pode ser definida como o ato de utilizar recursos de dados, informação e conhecimento disponíveis na organização com eficiência e eficácia.	
+	Um dos objetivos da gestão da informação é a eficiência do processo de tomada de decisão.
+
+Certo	Em gestão da informação, a eficiência pode ser considerada sinônimo da efetividade pois ambas são relativas à realização de um tarefa até a sua conclusão, visando a escolha da solução certa para a causa do problema.	
+	Eficiência é a execução de uma tarefa da forma certa e com qualidade, utilizando-se de menos recursos e de menor tempo possível, por isso é relativa à área operacional.
+
+
+
+
+	
 
 
 
