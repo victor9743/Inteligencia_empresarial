@@ -206,6 +206,14 @@ As afirmações I e II estão incorretas
 Apenas a afirmação III está incorreta.
 
 
+O conhecimento é fruto da contextualização de informações que assumirão a transformação do conhecimento prévio do interlocutor e poderão servir como subsídio prático de interação com o meio. Segundo Nonaka e Takeuchi, principais fundamentadores desse tipo de classificação, o conhecimento é formado por uma estrutura ambígua, ou paradoxal, na qual podemos identificar dois componentes aparentemente opostos:
+	
+	o conhecimento estratégico e o conhecimento processual
+Certo	o conhecimento tácito e o conhecimento explícito	
+	o conhecimento processual e o conhecimento situacional	
+	o conhecimento tácito e o conhecimento a priori	
+	o conhecimento proposicional e o conhecimento a priori
+
 
 
 
@@ -304,6 +312,7 @@ que seja capaz de monitorar este ambiente. Esta solução está associada à cap
 informações, inovar, criar conhecimento e atuar efetivamente com base no conhecimento gerado.
 A partir de seu uso é possível encontrar novas formas de entender os dados disponíveis na organização, gerando 
 informações e novos conhecimentos para o usuário final que, neste caso, é o tomador de decisão.
+
 
 
 
