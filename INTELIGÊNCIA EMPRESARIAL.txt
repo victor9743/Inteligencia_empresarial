@@ -558,6 +558,17 @@ Certo		Análise SWOT
 	Forças de Porter
 	Cadeia de Valor
 	FCS
+
+A respeito do BI (business intelligence), assinale a opção correta.
+	
+	ETL é o processo de análise de dados previsto pela arquitetura de BI.	
+	O repositório de dados analíticos de BI é representado pelas diversas bases de dados relacionais e por repositórios de dados que utilizem modelagens relacionais.	
+	O BI consiste na transformação metódica e consciente das informações exclusivamente prestadas pelos tomadores de decisão em novas formas de conhecimento, para evolução dos negócios e dos resultados organizacionais	
+	A camada de apresentação de uma arquitetura de BI é aquela em que as informações são organizadas e centralizadas.
+
+Certo	As técnicas do BI objetivam definir regras para a formatação adequada dos dados, com vista a sua transformação em depósitos estruturados de informações, sem considerar a sua origem.
+
+
 	
 A Inteligência Competitiva é um ciclo contínuo e se compõe de cinco fases. Indique dentre as opções abaixo aquela que representa a fase onde se entrega a informação analisada, ou seja, a inteligência, em um formato coerente e convincente aos tomadores de decisão.
 Certo	Disseminar e utilizar a informação.
@@ -594,6 +605,293 @@ Certo		I, II e II.
 	I e II, apenas.
 	I, apenas.
 	III, apenas.
+
+Inteligência empresarial aula 03 - tomada de decisão
+
+Tomada de decisão ( definição )
+podemos definir tomada de decisão como um processo de escolha entre diferentes cursos de ação, com o propósito de alcançar um ou mais objetivos.
+
+Podemos identificar duas abordagens distintas para buscarmos a solução de problemas:
+Reativas: O solucionador espera o aparecimento do problema.
+Pró-ativas: O solucionador monitora as atividades procurando e corrigindo problemas no início.
+
+O que é um problema?
+Situação quando o estado atual das coisas é diferente do estado desejado.
+
+Quais as Situações de Alerta que devemos observar para identificar um problema?
+
+Desvio em relação a experiências passadas
+
+Padrão anterior quebrado 
+Queda de vendas 
+Baixo desempenho 
+Aumento de turnover
+
+Desvio em relação ao plano traçado
+Projeções e expectativas não alcançados 
+Estouro de orçamento 
+Atraso em Projeto
+
+Problemas trazidos por outras pessoas
+Clientes insatisfeitos 
+Conflitos pessoais no setor ou departamento 
+Demissão de funcionários do setor ou departamento
+
+Atuação e desempenho de competidores
+Concorrentes com novos e melhores processos 
+Novos lançamentos 
+Melhor atendimento / desempenho
+
+Níveis de Tomada de Decisão em uma Organização
+
+Administração Estratégica - normalmente um conselho de diretores e um comitê executivo do presidente e principais executivos que desenvolvem as metas globais, estratégias, políticas e objetivos da organização como parte do processo de planejamento estratégico.  As decisões estratégicas determinam os objetivos da organização como um todo, suas metas, diretrizes, políticas e critérios gerais para a organização.
+
+Administração Tática  - desenvolve planos de curto e médio prazo, programações, orçamentos e especificam políticas, procedimentos e objetivos do negócio para as subunidades, como também distribui recursos e monitora o desempenho. As decisões táticas são mais específicas que as decisões estratégicas, são normalmente relacionadas com as operações de controle administrativo e utilizadas para gerar novas regras de decisão que irão ser aplicadas por parte do pessoal de operação.
+
+Administração Operacional - desenvolvem planos de curto prazo como os programas de produção semanal. Dirigem o uso de recursos e desempenho das tarefas de acordo com procedimentos e dentro dos orçamentos e programações definidos. As decisões operacionais estão associadas à operação diária da organização como, por exemplo, a definição de um cronograma para manutenção de equipamentos e a quantidade mínima de materia-prima em estoque.
+
+Tipos das Decisões
+
+Decisão estruturada
+
+Envolvem situações em que os procedimentos a serem seguidos podem ser especificados previamente.
+
+  *Operações ou transações, cujos processos de recuperação e controle de dados são repetitivos 
+
+Facilmente automatizados 
+Todos os dados relevantes estão disponíveis 
+Necessitam de pouco julgamento ou avaliação humana 
+ *Decisor necessita de procedimentos operacionais escritos tendo em vista sua característica: 
+
+Repetitivas 
+Rotineiras 
+Padrão pré existente
+
+Decisão não estruturadas
+
+Envolvem situações nas quais não é possível especificar de antemão a maioria dos procedimentos a serem seguidos. Neste tipo de decisão o tomador de decisão necessita de algum julgamento, avaliação ou percepção na definição do problema.
+
+Situações específicas, frequentemente únicas (ambientes  complexos e dinâmicos) 
+Dificilmente automatizados 
+Necessitam muito julgamento humano 
+São originais, não rotineiras e importantes. 
+Decisor necessita de competências pessoais específicas: 
+
+Capacidade de julgamento 
+Senso critico 
+Capacidade de reflexão 
+Intuição 
+Criatividade
+
+Decisão semi-estruturada
+
+Sugerem que alguns procedimentos podem ser especificados, mas não o suficiente para levar a uma decisão definida recomendada. Neste tipo de decisão somente parte do problema possui resposta clara e fornecida por um procedimento já aceito.
+
+Processo  de Tomada de  Decisões – Etapas
+Etapa: Inteligência (Compreensão)
+Esta etapa refere-se à fase de investigação do ambiente para encontrar situações  que exigem uma tomada de decisão. Nesta fase iremos:
+
+Etapa:  Projeto
+Esta etapa refere-se à fase onde o objetivo é o desenvolvimento e análise de possíveis cursos de ação. Esta etapa inclui o entendimento do problema, o teste de viabilidade das soluções e a construção de um modelo testado e validado.
+
+Etapa: Escolha
+Esta etapa envolve avaliação e recomendação de um determindo rumo de ação traçado na fase anterior. 
+
+Etapa: Implementação da Solução (Revisão)
+A última etapa refere-se à fase em que se faz a avaliação das solução escolhida, bem como os rumo e condições que levaram a tal decisão
+
+Condições de Decisões e Tipos de Problemas
+Uma decisão pode ser tomada nas seguintes condições:
+
+Decisão em condições de certeza
+Ocorre quando a decisão é feita com pleno conhecimento de todos os estados da natureza do processo decisório.
+Existe a certeza dom que irá ocorrer durante o período em que a  decisão é tomada.
+É possível atribuir probabilidade de 100% a um estado específico da  natureza.
+
+Decisão em condição de risco
+Ocorre quando são conhecidas as probabilidades associadas a cada um dos  estados da natureza, ou mesmo a parcela dos estados  conhecidos da natureza possui dados obtidos com probabilidade incerta, ou é desconhecida a probabilidade associada aos eventos
+
+Decisão em condições de incerteza ou decisão em condições de ignorância
+Ocorre quando não se obteve o total estado da natureza, ou mesmo a parcela dos estados conhecidos da natureza possui dados obtidos com probabilidade incerta, ou é desconhecida a probabilidade associada aos eventos
+
+Decisão em condições de competição ou decisão em condições de conflito
+Ocorre quando estratégias e estados da natureza são determinados pela ação de competidores Existem, obrigatoriamente, dois ou mais decisores envolvidos, o resultado depende da escolha de cada um dos decisores
+
+
+
+São DUAS vantagens da tomada de decisão em grupo:
+	Todas as opções anteriores.	
+	É mais fácil chegar a um consenso devido ao envolvimento de todos e é mais fácil tomar decisões com mais 	qualidade.
+	Requer um líder que que assumirá os riscos e responsabilidades decorrentes da solução tomada de decisões, q	   que é feita de forma mais rápida.
+	Reúne mais informações sobre o problema e é mais fácil de se tomar soluções impopulares.
+Certo	É mais fácil manter a motivação para a implementação de mudanças e confronta diferentes pontos de vistas 	sobre um mesmo problema.
+
+Dentre as alternativas abaixo, identifique qual (is) não corresponde (m) às situações de alerta em relação à um problema.
+
+I. Desvio em relação a experiências passadas.
+II. Desvio em relação ao plano traçado.
+III. Desvio em relação à um problema anterior.
+IV. Atuação e desempenho de competidores.
+
+	III e IV.	
+	Somente II.	
+	Somente IV.
+Certo	Somente III.
+	Somente I.
+
+Com relação a Solução de Problemas e Tomada de Decisão, identifique as afirmações abaixo, utilizando: Escolha, Monitoramento, Projeto, Implementação, Inteligência.
+
+a)  Identificar/definir problemas e/ou oportunidades
+b)  Solução alternativa e auxílio de viabilidade
+c)   Seleção de um curso de ação
+d)  Coloca-se a solução em prática
+e)  Avaliação da implementação e verificação dos resultados
+
+Indique a alternativa que possui a sequência correta:
+
+	inteligência, projeto, escolha, monitoramento, implementação
+	escolha, inteligência, escolha, implementação, monitoramento
+Certo		inteligência, projeto, escolha, implementação, monitoramento
+	inteligência, projeto, implementação, monitoramento, escolha
+	projeto, escolha, implementação, inteligência, monitoramento
+
+Se uma empresa está colocando um pedido para materiais de escritório, é mais provável que esteja engajada em qual dos seguintes tipos de decisão?
+	decisão pró-ativa
+Certo		decisão programada
+	decisão reativa
+	decisão não programada
+	decisão em grupo
+
+Decisão estruturada é aquela onde as operações ou transações envolvidas tem seus processos de recuperação e controle de dados:
+	documentados
+	sequenciais
+Certo		repetitivos
+	identificados
+	aleatórios
+	
+O tipo de informação requerida pelos tomadores de decisão está diretamente relacionado com o nível de tomada de decisão gerencial que eles enfrentam. As decisões tomadas no nível da Administração Operacional tendem a ser mais _______________, as tomadas no nível da Administração Tática mais _______________ e as tomadas no nível da Administração Estratégica mais _______________.
+
+As palavras que preenchem corretamente as lacunas são respectivamente:
+
+	estruturadas / não estruturadas / semiestruturadas
+	não estruturadas / semiestruturadas / estruturadas
+	semiestruturadas / estruturadas / não estruturadas
+Certo	estruturadas / semiestruturadas / não estruturadas
+	semiestruturadas / não estruturadas / estruturadas
+
+Sob qual das condições a seguir seria mais provável que você operasse se você não tem ideia de qual será o resultado de uma alternativa implementada?
+	condição de risco
+	condição de realidade
+Certo		condição de incerteza total
+	condição de competição
+	condição de certeza total
+
+Considere as seguintes abordagens para tomada de decisão:
+
+1. Abordagem proativa.
+2. Abordagem reativa.
+
+Agora classifique as afirmativas abaixo, de acordo com estas abordagens:
+
+(   ) O solucionador espera pelo aparecimento do problema.
+
+(   ) O solucionador monitora as atividades procurando e corrigindo os problemas antecipadamente.
+
+(   ) O profissional de TI, mesmo conhecendo o problema que está ocorrendo com o sistema OTPX, fica esperando o usuário reclamar para poder consertá-lo.
+
+(   ) Utilização de "nobreak" para evitar a perda de informações no ambiente de TI, caso a energia elétrica seja interrompida.
+
+(   ) A empresa possui um Plano de Contingência para o ambiente de TI, testado e aprovado. 
+
+A resposta CORRETA para esta classificação é:
+
+	2,1,2,1,2
+	2,1,1,2,1
+Certo		2,1,2,1,1
+	1,2,1,2,2
+	1,1,1,1,1
+
+Sistema de planejamento que integra totalmente as áreas funcionais de uma empresa como logística, produção, finanças, contabilidade e recursos humanos. Este sistema está melhor representada na alternativa:
+	Costumer RelationShip Management (CRM)
+Certo		Enterprise Resourcing Planning (ERP)
+	Material Resource Planning (MRP)
+	Management Information System (MIS)
+	Manufacturing Resource Planning (MRP-II)
+
+Não é exemplo de decisão estruturada a:
+	contratação de serviços para manutenção de rotina
+	aquisição de matéria-prima para abastecimento do processo produtivo
+	contratação de colaboradores para substituir outros demissionários
+Certo		construção de uma nova fábrica
+	programação da produção, considerando o volume de vendas projetado
+
+Condições para tomada de decisão geralmente possuem qual das alternativas?
+	Risco
+Certo		Todas as alternativas.
+	Incerteza
+	Competição
+	Decisão em condições de conflitos.
+
+O processo decisório é complexo e depende das características pessoais do tomador de decisões, da situação em que está envolvido e da maneira como percebe a situação. O processo decisorial exige sete etapas, entre elas estão:
+
+Assinale as alternativas corretas:
+
+F  Faz com que as empresas se tornem burocratas
+V  Percepção da situação que envolve algum problema
+V  Análise e definição do problema
+F  Designa vulnerabilidade empresarial
+V  Definição dos objetivos
+
+
+A seguir, são apresentadas as etapas do processo de tomada de decisão. Assinale a alternativa que contem a ordem correta deste processo.
+
+1 - Avaliação e comparação das alternativas para resolução do problema
+2 - Implementação da solução escolhida
+3 - Procura de alternativas para resolução do problema
+4 - Controle e avaliação da solução escolhida
+5 - Escolha das alternativas para resolução do problema
+6 - Definição e categorização do problema
+
+	5 - 6 - 3 - 4 - 1 - 2
+Certo		6 - 3 - 1 - 5 - 2 - 4
+	5 - 1 - 3 - 6 - 2 - 4
+	3 - 5 - 6 - 1 - 2 - 4
+	6 - 5 - 3 - 1 - 2 - 4
+
+A tomada de decisão nas empresas é algo constante e ininterrupto. A tomada de decisão possui uma série de fases que se constitui no processo decisório. Qual das fases abaixo descrita NÂO pertence ao processo decisório ?
+	Seleção de alternativas mais adequadas.
+	Análise do Problema.
+	Identificação do Problema.
+Certo		Avaliação das alternativas rejeitadas.
+	Estabelecimento de Soluções Alternativas.
+
+Considere as seguintes características relacionadas a cada fase do Processo de Tomada de Decisão:
+
+I) Fase de investigação do ambiente para encontrar situações que exijam uma tomada de decisão.
+
+II) Fase onde o objetivo é o desenvolvimento e análise de possíveis cursos de ação. Esta fase inclui o entendimento do problema, o teste de viabilidade das soluções e a construção de um modelo testado e validado.
+
+III) Fase que envolve a avaliação e recomendação de um determinado rumo de ação traçado na fase anterior.
+
+IV) Fase em que se faz a avaliação da solução escolhida, bem como dos rumos e condições que levaram a tal decisão.
+
+As fases citadas acima são respectivamente:
+
+	Projeto, Escolha, Inteligência e Implementação.
+	Escolha, Inteligência, Projeto e Implementação.
+Certo		Inteligência, Projeto, Escolha e Implementação.
+	Projeto, Inteligência, Escolha e Implementação.
+	Inteligência, Escolha, Projeto e Implementação.
+	
+Com o mercado cada vez mais globalizado e o ambiente empresarial extremamente competitivo, a tomada de decisões é um elemento crítico na vida organizacional. Sobre esse processo, qual das afirmativas abaixo é verdadeira?
+	As pessoas tomam decisões dentro de uma racionalidade limitada ¿ elas constroem modelos simplificados que extraem os aspectos essenciais do problema, sem capturar toda a sua complexidade
+	No processo de tomada de decisão, o problema a ser resolvido não necessita ser definido de forma clara e sem ambiguidades
+	É um processo relativamente novo e que vem sendo estudado constantemente com o objetivo de encontrar algum caminho que permita facilitar a complexidade deste assunto
+Certo		É um processo de escolha entre diferentes cursos de ação com o propósito de alcançar um ou mais objetivos
+	É um processo muito antigo e que vem sendo estudado constantemente com o objetivo de encontrar algum caminho que permita tornar mais complexo o assunto
+
+
+
 
 
 
